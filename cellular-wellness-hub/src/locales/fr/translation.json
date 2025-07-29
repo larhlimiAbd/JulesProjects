@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Page d'accueil"
+  },
+  "about": {
+    "title": "À Propos"
+  },
+  "services": {
+    "title": "Services"
+  },
+  "booking": {
+    "title": "Réservation"
+  },
+  "donations": {
+    "title": "Dons"
+  },
+  "contact": {
+    "title": "Contact"
+  }
+}

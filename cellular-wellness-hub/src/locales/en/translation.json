@@ -1,0 +1,20 @@
+{
+  "home": {
+    "title": "Homepage"
+  },
+  "about": {
+    "title": "About"
+  },
+  "services": {
+    "title": "Services"
+  },
+  "booking": {
+    "title": "Booking"
+  },
+  "donations": {
+    "title": "Donations"
+  },
+  "contact": {
+    "title": "Contact"
+  }
+}
