@@ -18,16 +18,42 @@
     "meet_fj_body": "FJ is a dedicated and compassionate facilitator of personal transformation, guiding individuals toward profound shifts across their physical, emotional, mental, and spiritual well-being. With extensive training and certifications in Star Magic Healing, Access Consciousness, Reiki, Health & Wellness Coaching, Nutrition, Lymphatic Drainage, FJ brings a wealth of knowledge and deep commitment to your healing journey."
   },
   "services": {
-    "title": "Services"
+    "title": "Our Services",
+    "star_magic_healing_title": "Remote Energy Healing: Unlock Your Highest Potential with Star Magic Healing",
+    "star_magic_healing_body": "Discover the profound shifts possible with Star Magic Healing – an advanced, high-vibrational energy modality delivered remotely by Cellular Wellness Hub. This powerful technique works directly with your energetic blueprint to clear deep-seated blockages, dissolve limiting emotional patterns and past traumas, and reactivate your body's natural health and vitality, aligning you with your highest potential.",
+    "access_consciousness_title": "Access Consciousness: Tools for Change & Possibility / What Else is Possible for You?",
+    "access_consciousness_body": "Are you ready to move beyond limitations and create a life filled with more ease, joy, and glory? Access Consciousness offers pragmatic tools and perspectives to unlock your awareness and empower you to change anything that isn't working for you. It's about asking questions, clearing energetic blocks, and opening the door to infinite possibilities.",
+    "reiki_healing_title": "Reiki Healing: Gentle Energy for Balance & Well-being / Find Your Calm Center with Universal Energy",
+    "reiki_healing_body": "Feeling stressed, energetically drained, or seeking deeper peace? Reiki offers a gentle path back to balance. This time-honored Japanese practice channels universal life force energy to nurture your whole being – body, mind, and spirit. By facilitating the flow of this healing energy, Reiki helps dissolve energetic blocks, soothe the nervous system, and restore your natural state of harmony and vitality.",
+    "lymphatic_drainage_title": "Lymphatic Drainage: Gentle Support for Detox & Flow",
+    "lymphatic_drainage_body": "Support your body's natural detoxification pathways with Lymphatic Drainage. This specialized, gentle technique uses light, rhythmic touch to stimulate the circulation of lymphatic fluid throughout the body. It's distinct from deep tissue massage and focuses specifically on encouraging the movement of lymph to help reduce fluid retention, support the immune system, soothe the nervous system, and promote overall well-being. Ideal for those seeking reduced swelling, enhanced recovery, or general detoxification support.",
+    "health_wellness_coaching_title": "Health & Wellness Coaching: Achieve Your Well-being Goals / Thrive with Sustainable Habits",
+    "health_wellness_coaching_body": "Take charge of your well-being and create a lifestyle you love! Health & Wellness Coaching empowers you with the tools, strategies, and support needed to make lasting positive changes. Whether you want to revitalize your nutrition, find joy in movement, build stress resilience, or deepen your self-care, coaching provides a dedicated space to design and implement habits that help you flourish."
   },
   "booking": {
-    "title": "Schedule Your Free Session"
+    "title": "Schedule Your Free Session",
+    "reminder": "As a reminder, all healing sessions offered by Cellular Wellness Hub, for all modalities, are provided completely free of charge. There is no cost or obligation associated with booking. To help us continue offering these free services, voluntary donations are greatly appreciated but are entirely optional and never expected.",
+    "guide_title": "Quick Guide",
+    "guide_step_1": "1. Choose Your Preferred Service Below",
+    "guide_step_2": "2. Select an Available Date and Time",
+    "guide_step_3": "3. Enter Your Details to Confirm",
+    "questions_help": "Unsure which free service is right for you, or have questions before booking? We recommend booking a Free 30-Minute Discovery Call first, or feel free to Contact Us."
   },
   "donations": {
-    "title": "Donations (Entirely Optional)"
+    "title": "Donations (Entirely Optional)",
+    "option1": "All healing services at Cellular Wellness Hub are offered completely free of charge, with no obligation. If you have found value in these offerings and feel genuinely inspired to support our mission of accessible wellness, donations are gratefully accepted. We accept contributions only from those who truly wish to give, can do so comfortably, and are eager to support this cause. Your generosity helps sustain and expand these free resources for all. Thank you!",
+    "option2": "Our commitment is to offer all sessions for free, ensuring everyone has access. Donations are never expected or required. For those who feel inspired by this work and wish to contribute because they want to, can, and are eager to do so, your support is deeply appreciated. Every donation, large or small, directly contributes to maintaining and growing this offering of free healing support. Thank you for considering partnering with us in this way.",
+    "option3": "All services at Cellular Wellness Hub are free. If you want to, can, and are eager to support our mission of offering access to healing, donations are warmly welcomed but never required. Your support helps us continue this work. Thank you!"
   },
   "contact": {
-    "title": "Contact Us"
+    "title": "Contact Us",
+    "intro": "Have questions, comments, or requests? We'd love to hear from you! Whether you want to know more about our free healing modalities, the pillars of our practice, session scheduling, or anything else, please feel free to reach out using the form below. We will do our best to get back to you promptly.",
+    "form_name": "Your Name",
+    "form_email": "Your Email",
+    "form_subject": "Subject",
+    "form_message": "Your Message",
+    "form_submit": "Send",
+    "privacy_notice": "We respect your privacy and will not share your information."
   },
   "footer": {
     "rights": "All rights reserved."

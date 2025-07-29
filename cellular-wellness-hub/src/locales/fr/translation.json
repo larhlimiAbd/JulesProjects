@@ -18,16 +18,42 @@
     "meet_fj_body": "FJ est une facilitatrice dévouée et compatissante de la transformation personnelle, guidant les individus vers des changements profonds concernant leur bien-être physique, émotionnel, mental et spirituel. Avec une formation approfondie et des certifications en Star Magic Healing, Access Consciousness, Reiki, Coaching Santé et Bien-être, Nutrition et Drainage Lymphatique, FJ apporte une richesse de connaissances et un engagement profond à votre parcours de guérison."
   },
   "services": {
-    "title": "Services"
+    "title": "Nos Services",
+    "star_magic_healing_title": "Soins Énergétiques à Distance : Débloquez Votre Plus Haut Potentiel avec Star Magic Healing",
+    "star_magic_healing_body": "Découvrez les changements profonds possibles avec Star Magic Healing – une modalité énergétique avancée, à haute vibration, dispensée à distance par Cellular Wellness Hub. Cette technique puissante travaille directement avec votre empreinte énergétique pour éliminer les blocages profondément ancrés, dissoudre les schémas émotionnels limitants et les traumatismes passés, et réactiver la santé et la vitalité naturelles de votre corps, vous alignant sur votre plus haut potentiel.",
+    "access_consciousness_title": "Access Consciousness : Outils pour le Changement & la Possibilité / Quoi d'Autre est Possible pour Vous ?",
+    "access_consciousness_body": "Êtes-vous prêt(e) à dépasser les limitations et à créer une vie remplie de plus d'aisance, de joie et de gloire ? Access Consciousness propose des outils pragmatiques et des perspectives pour débloquer votre conscience et vous donner les moyens de changer tout ce qui ne fonctionne pas pour vous. Il s'agit de poser des questions, de libérer les blocages énergétiques et d'ouvrir la porte à des possibilités infinies.",
+    "reiki_healing_title": "Soins Reiki : Énergie Douce pour l'Équilibre & le Bien-être / Trouvez Votre Centre de Calme avec l'Énergie Universelle",
+    "reiki_healing_body": "Vous vous sentez stressé(e), énergétiquement épuisé(e) ou en quête d'une paix plus profonde ? Le Reiki offre un chemin doux vers l'équilibre. Cette pratique japonaise ancestrale canalise l'énergie vitale universelle pour nourrir tout votre être – corps, esprit et âme. En facilitant la circulation de cette énergie de guérison, le Reiki aide à dissoudre les blocages énergétiques, à apaiser le système nerveux et à restaurer votre état naturel d'harmonie et de vitalité.",
+    "lymphatic_drainage_title": "Drainage Lymphatique : Soutien Doux pour la Détoxification & la Circulation",
+    "lymphatic_drainage_body": "Soutenez les voies naturelles de détoxification de votre corps avec le Drainage Lymphatique. Cette technique spécialisée et douce utilise des mouvements légers et rythmiques pour stimuler la circulation de la lymphe dans tout le corps. Elle se distingue du massage des tissus profonds et se concentre spécifiquement sur la stimulation du mouvement de la lymphe pour aider à réduire la rétention d'eau, soutenir le système immunitaire, apaiser le système nerveux et favoriser le bien-être général. Idéal pour ceux qui cherchent à réduire le gonflement, à améliorer la récupération ou à obtenir un soutien général à la détoxification.",
+    "health_wellness_coaching_title": "Coaching Santé & Bien-être : Atteignez Vos Objectifs de Bien-être / Épanouissez-vous Grâce à des Habitudes Durables",
+    "health_wellness_coaching_body": "Prenez en charge votre bien-être et créez un style de vie que vous aimez ! Le Coaching Santé & Bien-être vous fournit les outils, les stratégies et le soutien nécessaires pour opérer des changements positifs durables. Que vous souhaitiez revitaliser votre nutrition, trouver de la joie dans le mouvement, renforcer votre résilience au stress ou approfondir vos pratiques d'auto-soins, le coaching offre un espace dédié pour concevoir et mettre en œuvre les habitudes qui vous aideront à vous épanouir."
   },
   "booking": {
-    "title": "Planifiez Votre Séance Gratuite"
+    "title": "Planifiez Votre Séance Gratuite",
+    "reminder": "Pour rappel, toutes les séances de guérison proposées par Cellular Wellness Hub, pour toutes les modalités, sont offertes entièrement gratuitement. Il n'y a aucun coût ni aucune obligation associée à la réservation. Pour nous aider à continuer d'offrir ces services gratuits, les dons volontaires sont très appréciés mais sont entièrement facultatifs et jamais attendus.",
+    "guide_title": "Guide Rapide",
+    "guide_step_1": "1. Choisissez Votre Service Préféré Ci-dessous",
+    "guide_step_2": "2. Sélectionnez une Date et une Heure Disponibles",
+    "guide_step_3": "3. Entrez Vos Coordonnées pour Confirmer",
+    "questions_help": "Vous ne savez pas quel service gratuit vous convient le mieux, ou vous avez des questions avant de réserver ? Nous vous recommandons de réserver d'abord un Appel Découverte Gratuit de 30 Minutes, ou n'hésitez pas à Nous Contacter."
   },
   "donations": {
-    "title": "Dons (Entièrement Facultatifs)"
+    "title": "Dons (Entièrement Facultatifs)",
+    "option1": "Tous les services de guérison chez Cellular Wellness Hub sont offerts entièrement gratuitement, sans aucune obligation. Si vous avez trouvé de la valeur dans ces offres et vous sentez sincèrement inspiré(e) à soutenir notre mission de bien-être accessible, les dons sont acceptés avec gratitude. Nous acceptons les contributions uniquement de ceux qui souhaitent réellement donner, peuvent le faire confortablement, et sont désireux de soutenir cette cause. Votre générosité aide à maintenir et à développer ces ressources gratuites pour tous. Merci!",
+    "option2": "Notre engagement est d'offrir toutes les séances gratuitement, garantissant que chacun(e) y ait accès. Les dons ne sont jamais attendus ni requis. Pour ceux qui se sentent inspirés par ce travail et souhaitent contribuer parce qu'ils le veulent, le peuvent, et sont désireux de le faire, votre soutien est profondément apprécié. Chaque don, petit ou grand, contribue directement à maintenir et à développer cette offre de soutien de guérison gratuit. Merci d'envisager de vous associer à nous de cette manière.",
+    "option3": "Tous les services de Cellular Wellness Hub sont gratuits. Si vous voulez, pouvez, et êtes désireux de soutenir notre mission d'offrir un accès à la guérison, les dons sont chaleureusement accueillis mais jamais requis. Votre soutien nous aide à poursuivre ce travail. Merci !"
   },
   "contact": {
-    "title": "Nous Contacter"
+    "title": "Nous Contacter",
+    "intro": "Avez-vous des questions, des commentaires ou des demandes ? N'hésitez pas à nous contacter ! Que vous souhaitiez en savoir plus sur nos modalités de guérison gratuites, les piliers de notre pratique, la planification des séances, ou toute autre chose, n'hésitez pas à nous contacter via le formulaire ci-dessous. Nous nous efforcerons de vous répondre dans les meilleurs délais.",
+    "form_name": "Votre Nom",
+    "form_email": "Votre E-mail",
+    "form_subject": "Objet",
+    "form_message": "Votre Message",
+    "form_submit": "Envoyer",
+    "privacy_notice": "Nous respectons votre vie privée et ne partagerons pas vos informations."
   },
   "footer": {
     "rights": "Tous droits réservés."

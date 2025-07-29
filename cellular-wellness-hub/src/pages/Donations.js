@@ -9,6 +9,7 @@ const Donations = () => {
   return (
     <div>
       <h1>{t('donations.title')}</h1>
+      <p>{t('donations.option1')}</p>
       <DonationButton donationLink={donationLink} />
     </div>
   );
