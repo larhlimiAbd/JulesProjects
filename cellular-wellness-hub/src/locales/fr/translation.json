@@ -1,21 +1,33 @@
 {
   "home": {
-    "title": "Page d'accueil"
+    "title": "Activez Votre Pouvoir de Guérison — Transformez-vous à l'Intérieur, Rayonnez à l'Extérieur",
+    "intro_headline": "Débloquez une Santé Éclatante & une Harmonie Intérieure, Où Que Vous Soyez.",
+    "intro_body": "Bienvenue chez Cellular Wellness Hub – votre partenaire sur le chemin du bien-être holistique. Nous vous guidons vers une santé optimale, la paix intérieure et un équilibre authentique grâce à notre approche unique combinant Soins Énergétiques, Soutien au Drainage Lymphatique, Coaching de Vie perspicace et Programmes Bien-être personnalisés. Que vous cherchiez à libérer l'énergie stagnante, à soutenir les processus naturels de guérison de votre corps, à améliorer la détoxification, à gagner en clarté sur la direction de votre vie ou à adopter des habitudes saines et durables, vous trouverez un accompagnement dédié, compatissant et précisément adapté à vos besoins. Qu'est-ce qui rend notre approche unique ? Le bien-être transformateur selon vos conditions. Découvrez notre gamme complète de services via de puissantes séances à distance ou des rendez-vous en personne, garantissant un soutien véritablement personnalisé. Accédez à une guérison profonde et à un coaching éclairé depuis le confort de votre foyer – la distance n'est jamais un obstacle à votre croissance et à votre transformation. Activez votre plein potentiel et accueillez une version de vous-même plus saine et rayonnante.",
+    "book_discovery_call": "Réservez Votre Appel Découverte Gratuit",
+    "book_discovery_call_description": "Parlons de votre vision du bien-être. Réservez dès aujourd'hui une consultation gratuite et sans engagement.",
+    "explore_services": "Découvrez Nos Services",
+    "explore_services_description": "Découvrez notre approche unique et apprenez comment nos modalités peuvent améliorer votre bien-être – disponibles en personne et à distance."
   },
   "about": {
-    "title": "À Propos"
+    "title": "Notre Philosophie : Renforcer Votre Bien-être Holistique",
+    "mission_body_1": "Bienvenue chez Cellular Wellness Hub, où votre chemin de guérison autonome est notre priorité. Nous nous consacrons à vous guider vers le bien-être holistique, en offrant des expériences profondément enrichissantes qui harmonisent votre champ énergétique, votre corps physique et votre état émotionnel. Notre mission principale est de fournir un soutien qui nourrit votre être tout entier — corps, esprit et âme — en abordant les causes profondes du déséquilibre. Nous intégrons la sagesse intemporelle aux connaissances et techniques actuelles pour vous aider à atteindre un bien-être durable et pérenne.",
+    "mission_body_2": "Nous croyons que la véritable vitalité vient de l'intérieur. Grâce à notre combinaison unique de Soins Énergétiques, Soutien Lymphatique et Coaching perspicace, nous nous concentrons sur une transformation profonde et durable, allant au-delà de la relaxation temporaire. Notre approche vous donne les moyens de jouer un rôle actif dans votre santé. Nous vous accompagnons pour libérer ce qui ne vous sert plus, fournissons des outils pratiques et des stratégies pour un équilibre continu, et vous guidons pour retrouver votre vitalité innée et vivre une vie alignée sur votre raison d'être profonde.",
+    "mission_body_3": "Nous nous engageons à rendre ce bien-être transformateur accessible où que vous soyez. Que vous nous rejoigniez en personne ou via nos séances efficaces à distance, vous recevez le même soin dévoué et le même accompagnement éclairé. Nos séances virtuelles sont conçues pour être tout aussi puissantes et soutenantes qu'une rencontre en personne. Nous cultivons un espace sûr, compatissant et bienveillant pour votre parcours, favorisant une connexion profonde avec vous-même, peu importe le lieu.",
+    "mission_closing": "La distance n'est pas un obstacle — votre chemin vers une santé éclatante commence aujourd'hui !",
+    "meet_fj_headline": "Rencontrez FJ – Votre Guide vers la Transformation Holistique",
+    "meet_fj_body": "FJ est une facilitatrice dévouée et compatissante de la transformation personnelle, guidant les individus vers des changements profonds concernant leur bien-être physique, émotionnel, mental et spirituel. Avec une formation approfondie et des certifications en Star Magic Healing, Access Consciousness, Reiki, Coaching Santé et Bien-être, Nutrition et Drainage Lymphatique, FJ apporte une richesse de connaissances et un engagement profond à votre parcours de guérison."
   },
   "services": {
     "title": "Services"
   },
   "booking": {
-    "title": "Réservation"
+    "title": "Planifiez Votre Séance Gratuite"
   },
   "donations": {
-    "title": "Dons"
+    "title": "Dons (Entièrement Facultatifs)"
   },
   "contact": {
-    "title": "Contact"
+    "title": "Nous Contacter"
   },
   "footer": {
     "rights": "Tous droits réservés."

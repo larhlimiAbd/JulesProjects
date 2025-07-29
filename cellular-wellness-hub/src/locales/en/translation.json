@@ -1,21 +1,33 @@
 {
   "home": {
-    "title": "Homepage"
+    "title": "Activate Your Healing Power — Transform Within, Radiate Without",
+    "intro_headline": "Unlock Vibrant Health & Inner Harmony, Wherever You Are.",
+    "intro_body": "Welcome to Cellular Wellness Hub – your partner on the path to holistic well-being. We guide you toward optimal health, inner peace, and authentic balance through our unique approach combining Energy Healing, Lymphatic Drainage Support, insightful Life Coaching, and personalized Wellness Programs. Whether you're looking to release stagnant energy, support your body's natural healing processes, enhance detoxification, gain clarity on your life's direction, or adopt healthy, sustainable habits, you'll find dedicated, compassionate support tailored precisely to your needs. What makes our approach unique? Transformative wellness on your terms. Experience our full range of services through powerful remote sessions or in-person appointments, ensuring truly personalized support. Access profound healing and insightful coaching from the comfort of your home – distance is never a barrier to your growth and transformation. Activate your full potential and welcome a healthier, more radiant version of yourself.",
+    "book_discovery_call": "Book Your Free Discovery Call",
+    "book_discovery_call_description": "Let's talk about your vision for wellness. Book a free, no-obligation consultation today.",
+    "explore_services": "Explore Our Services",
+    "explore_services_description": "Discover our unique approach and learn how our modalities can enhance your well-being – available in-person and remotely."
   },
   "about": {
-    "title": "About"
+    "title": "Our Philosophy: Empowering Your Holistic Wellness",
+    "mission_body_1": "Welcome to Cellular Wellness Hub, where your empowered healing journey is our focus. We are dedicated to guiding you toward holistic well-being, offering profoundly elevating experiences that harmonize your energy field, physical body, and emotional state. Our core mission is to provide support that nurtures your entire being—body, mind, and spirit—by addressing the root causes of imbalance. We integrate timeless wisdom with current knowledge and techniques to help you achieve lasting, sustainable wellness.",
+    "mission_body_2": "We believe true vitality comes from within. Through our unique combination of Energy Healing, Lymphatic Support, and insightful Coaching, we focus on deep, lasting transformation, going beyond temporary relaxation. Our approach empowers you to take an active role in your health. We support you in releasing what no longer serves you, provide practical tools and strategies for ongoing balance, and guide you toward reclaiming your innate vitality and living a life aligned with your deeper purpose.",
+    "mission_body_3": "We are committed to making this transformative wellness accessible wherever you are. Whether you join us in-person or through our effective remote sessions, you receive the same dedicated care and insightful guidance. Our virtual sessions are designed to be just as powerful and supportive as meeting face-to-face. We cultivate a safe, compassionate, and nurturing space for your journey, fostering deep self-connection regardless of location.",
+    "mission_closing": "Distance is no barrier—your path to vibrant health begins today!",
+    "meet_fj_headline": "Meet FJ – Your Guide to Holistic Transformation",
+    "meet_fj_body": "FJ is a dedicated and compassionate facilitator of personal transformation, guiding individuals toward profound shifts across their physical, emotional, mental, and spiritual well-being. With extensive training and certifications in Star Magic Healing, Access Consciousness, Reiki, Health & Wellness Coaching, Nutrition, Lymphatic Drainage, FJ brings a wealth of knowledge and deep commitment to your healing journey."
   },
   "services": {
     "title": "Services"
   },
   "booking": {
-    "title": "Booking"
+    "title": "Schedule Your Free Session"
   },
   "donations": {
-    "title": "Donations"
+    "title": "Donations (Entirely Optional)"
   },
   "contact": {
-    "title": "Contact"
+    "title": "Contact Us"
   },
   "footer": {
     "rights": "All rights reserved."
