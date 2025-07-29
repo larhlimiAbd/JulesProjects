@@ -1,9 +1,14 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
+import BookingWidget from '../components/BookingWidget';
 
 const Booking = () => {
+  const { t } = useTranslation();
+
   return (
     <div>
-      <h1>Réservation</h1>
+      <h1>{t('booking.title')}</h1>
+      <BookingWidget />
     </div>
   );
 };

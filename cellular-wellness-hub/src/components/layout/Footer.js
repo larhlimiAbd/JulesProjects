@@ -1,9 +1,12 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 
 const Footer = () => {
+  const { t } = useTranslation();
+
   return (
     <footer>
-      {/* Le contenu du footer ici */}
+      <p>&copy; {new Date().getFullYear()} CellularWellnessHub. {t('footer.rights')}</p>
     </footer>
   );
 };

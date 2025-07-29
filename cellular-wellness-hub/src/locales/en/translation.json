@@ -16,5 +16,8 @@
   },
   "contact": {
     "title": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved."
   }
 }
